@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #adadad;
+    background-color:#2d545e;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -9,7 +9,10 @@
     font-size: 36pt;
     text-decoration: none;
 }
-
+body {
+    background-color: #fff5d7;
+    padding-left: 0px;
+}
 .content {
     margin-left: 40px;
 }
@@ -19,7 +22,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #12343b;
 }
 
 .save {
@@ -42,5 +45,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #000000;
+    color:#e1b382;
 }
